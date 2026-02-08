@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120" alt="Programming GIF"/>
 </div>
 
-<h1 align="center">👋 Hi, I'm Vijaysing Dobhal</h1>
+<h1 align="center">👋 Hi, I'm Vijay Dobhal</h1>
 <h3 align="center">🚀 Flutter Developer | Mobile App Engineer | Firebase Expert</h3>
 
 ---
